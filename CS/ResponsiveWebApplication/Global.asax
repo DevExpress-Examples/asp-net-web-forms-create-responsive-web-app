@@ -1,0 +1,1 @@
+<%@ Application Codebehind="Global.asax.cs" Inherits="ResponsiveWebApplication.Global_asax" Language="C#" %>
