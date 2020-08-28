@@ -1,6 +1,6 @@
 <%@ Page Title="Scheduler" Language="C#" AutoEventWireup="true" MasterPageFile="~/Root.master" CodeBehind="Scheduler.aspx.cs" Inherits="ResponsiveWebApplication.SchedulerModule" %>
 
-<%@ Register Assembly="DevExpress.Web.ASPxScheduler.v18.2, Version=18.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" Namespace="DevExpress.Web.ASPxScheduler" TagPrefix="dx" %>
+<%@ Register Assembly="DevExpress.Web.ASPxScheduler.v18.2, Version=18.2.13.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" Namespace="DevExpress.Web.ASPxScheduler" TagPrefix="dx" %>
 
 <asp:Content runat="server" ContentPlaceHolderID="Head">
     <link rel="stylesheet" type="text/css" href='<%# ResolveUrl("~/Content/Scheduler.css") %>' />
