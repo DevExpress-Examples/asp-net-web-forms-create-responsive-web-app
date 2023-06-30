@@ -7,7 +7,7 @@
 **[[Run Online]](https://codecentral.devexpress.com/180306543/)**
 <!-- run online end -->
 
-This example demonstrates how to create a web application with an adaptive layout based on DevExpress ASP.NET Web Forms controls.
+This example demonstrates how to create a web application with an adaptive layout based on [DevExpress ASP.NET Web Forms controls](https://docs.devexpress.com/AspNet/7873/aspnet-webforms-controls).
 
 ![Create a Responsive Web Application](image.png)
 
