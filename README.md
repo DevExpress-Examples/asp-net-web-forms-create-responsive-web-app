@@ -4,9 +4,6 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 # ASP.NET Web Forms Controls - How to Create a Responsive Web Application
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/180306543/)**
-<!-- run online end -->
 
 This example demonstrates how to create a web application with an adaptive layout based on [DevExpress ASP.NET Web Forms controls](https://docs.devexpress.com/AspNet/7873/aspnet-webforms-controls).
 
